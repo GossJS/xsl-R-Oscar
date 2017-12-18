@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT webskills (skill+)>
+<!ELEMENT skill (skill*)>
+<!ATTLIST skill name CDATA #REQUIRED>
+<!ATTLIST skill level (beginner|intermediate|low-intermediate|upper-intermediate|advanced) "intermediate">

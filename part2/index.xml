@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE webskills PUBLIC "Garifullin" "http://kodaktor.ru/j/dtd_2bf92">
+<webskills>
+	<skill name="SVG" level="beginner" />
+	<skill name="HTML" level="advanced" />
+	<skill name="CSS" level="intermediate" />
+	<skill name="JS" level="intermediate">
+		<skill name="react.js" level="intermediate" />
+		<skill name="jQuery" level="intermediate" />
+		<skill name="chart.js" level="intermediate" />
+		<skill name="redux" level="low-intermediate" />
+		<skill name="node.js" level="beginner">
+			<skill name="npm" level="intermediate">
+				<skill name="webpack" level="beginner" />
+				<skill name="gulp" level="intermediate" />
+			</skill>
+		</skill>
+	</skill>
+	<skill name="PHP" level="beginner" />
+</webskills>
